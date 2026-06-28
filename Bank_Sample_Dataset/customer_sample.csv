@@ -1,0 +1,11 @@
+CUST_ID,CUST_NAME,ACC_TYPE,RISK_SCORE
+1001,rithun cp,current,3
+1002,sumit tm,current,3
+1003,rakshi cp,fixed,4
+1004,farok br,fixed,4
+1005,irfan mj,current,3
+1006,pratik S,current,2
+1007,akhil ts,current,2
+1008,pratik cs,savings,5
+1009,rakshi J,fixed,2
+1010,akhil muhamad,savings,1
